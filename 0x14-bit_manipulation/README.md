@@ -1,1 +1,1 @@
-learning all about bit manipulation
+learning about bit manipulation
